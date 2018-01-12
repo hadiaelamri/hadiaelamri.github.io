@@ -737,3 +737,19 @@ a:hover {
 #zoombox.simple .multimedia .zoombox_next,#zoombox.simple .multimedia .zoombox_prev{
     display:block;
 }
+
+#demo{
+    text-align: center;
+    font-size: 80px;
+    margin-top:0px;
+    color: #aa0615;
+    font-weight: bold;
+
+}
+#emoticone{
+    margin-top:0px;
+    color: #aa0615;
+    text-align: center;
+    font-size: 60px;
+    color: #aa0615;
+}
