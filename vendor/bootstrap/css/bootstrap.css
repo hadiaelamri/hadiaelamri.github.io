@@ -1,9 +1,4 @@
-/*!
- * Bootstrap v4.0.0-beta.2 (https://getbootstrap.com)
- * Copyright 2011-2017 The Bootstrap Authors
- * Copyright 2011-2017 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -519,11 +514,11 @@ mark,
   list-style: none;
 }
 
-.list-inline-item{
+.list-inline-item {
   display: inline-block;
 }
 
-.list-inline-item :not(:last-child) {
+.list-inline-item:not(:last-child) {
   margin-right: 5px;
 }
 
@@ -541,13 +536,6 @@ mark,
   display: block;
   font-size: 80%;
   color: #868e96;
-}
-
-.image-logo{
-  display: inline;
-}
-.image-logo :not(:last-child) {
-  margin-right: 3px;
 }
 
 .blockquote-footer::before {
